@@ -18,5 +18,5 @@ Each topic is covered with a separate Java file and named in proper sequence.
 
 ## Author
 
-Krish Verma | B.Tech (IT), 2nd Year  
+Krish Verma | B.Tech (IT)
 Dr. A.P.J. Abdul Kalam Technical University
